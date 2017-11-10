@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTPerformanceLogger.h

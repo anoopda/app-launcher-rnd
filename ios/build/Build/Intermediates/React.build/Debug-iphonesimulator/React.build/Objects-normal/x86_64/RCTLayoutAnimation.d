@@ -1,0 +1,15 @@
+dependencies: \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Modules/RCTLayoutAnimation.m \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Modules/RCTLayoutAnimation.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/hrishikesh/Desktop/dev/appLauncher/fpp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
